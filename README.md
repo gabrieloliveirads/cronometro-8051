@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img src=""></img>
     <p>Cronômetro com at89s51 ⏱</p>
 </h1>
 
